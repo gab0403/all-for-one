@@ -1,5 +1,5 @@
 {
-  "name": "sd-0x-mysql-all-for-one",
+  "name": "mysql-all-for-one",
   "version": "1.0.0",
   "description": "Project for Block 8",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/betrybe/sd-0x-mysql-all-for-one.git"
+    "url": "git+https://github.com/gab0403/all-for-one"
   },
   "keywords": [
     "javascript",
@@ -19,10 +19,7 @@
   ],
   "author": "Jean Vasconcelos",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/betrybe/sd-0x-mysql-all-for-one/issues"
-  },
-  "homepage": "https://github.com/betrybe/sd-0x-mysql-all-for-one#readme",
+ 
   "devDependencies": {
     "acorn": ">=5.7.4",
     "jest": "^24.9.0",
