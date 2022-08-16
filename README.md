@@ -2,7 +2,7 @@
 
 ## O que foi desenvolvido:
 
-O projeto com o codinome *All For One*  foi desenvolvido para a pratica dos conceitos de SQL.
+O projeto com o codinome *All For One*  foi desenvolvido para a prática dos conceitos de SQL.
 
 O banco de dados utilizado foi o `Northwind`.
 
